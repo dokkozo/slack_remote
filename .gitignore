@@ -1,0 +1,4 @@
+# setting
+slackbot_settings.py
+*__pycache__*
+tmp*
